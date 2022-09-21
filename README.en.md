@@ -1,3 +1,7 @@
+# Translation
+- [Türkçe](README.md)
+- [English](README.en.md)
+
 # What you will see here?
 
 My driving game that I developed while logging into Metaverse, which has obstacles and calculates points, which I developed with Unity hub. Here, detecting collisions in virtual environment,
