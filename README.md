@@ -1,4 +1,4 @@
-# Translate
+# Çeviriler
 - [Türkçe](README.md)
 - [English](README.en.md)
 
